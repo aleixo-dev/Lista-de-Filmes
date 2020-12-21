@@ -8,7 +8,7 @@
 MVP - Padrão de interface de usuário projetado para facilitar os testes unitários automatizados e melhorar a separação de interesses em lógica de apresentação, embora seja um aplicativo simples.
 
 ## 📝 Sobre o Projeto
-Este projeto foi desenvolvido para listar os principais filmes mais populares, com The Movie DB, e foi usado a biblioteca Retrofit2 + Moshi junto com o padrão MVP.
+Este projeto foi desenvolvido para listar os principais filmes mais populares com The Movie DB,foi usado também a biblioteca Retrofit2 + Moshi junto com o padrão MVP.
 
 ### 📌 The Movie DB
 The Movie DB é um webservice onde podemos usar filme, programa de TV ou imagens e / ou dados de ator
